@@ -1,2 +1,2 @@
-# Car-Racing-Game
-Car racing game using JavaScript
+# C42RV_SpeedRacer_ReferenceCode
+Reference Code
